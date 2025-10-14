@@ -5,6 +5,9 @@ The goal of this project is to analyze key business metrics and identify areas f
 
 ## Objectives
 To analyze total sales and profit across different dimensions.
+
 To compare sales performance by product category, retailer, and region.
+
 To monitor monthly sales trends and identify peak sales periods.
+
 To calculate average price per unit and total units sold.
