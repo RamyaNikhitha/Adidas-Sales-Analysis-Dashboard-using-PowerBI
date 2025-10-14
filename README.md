@@ -64,12 +64,12 @@ Consistent color palette and readable typography.
 
 Interactive visuals for better user experience.
 
-## Tools & Technologies
+ ## Tools & Technologies
 
-## Power BI Desktop
+ Power BI Desktop
 
-## Data Source: Excel (Sales Data)
+ Data Source: Excel (Sales Data)
 
-## Data Modeling: Relationships between product, retailer, and regional data
+ Data Modeling: Relationships between product, retailer, and regional data
 
-## DAX Calculations: Used for profit, average price, and total units sold
+ DAX Calculations: Used for profit, average price, and total units sold
