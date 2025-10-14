@@ -11,3 +11,55 @@ To compare sales performance by product category, retailer, and region.
 To monitor monthly sales trends and identify peak sales periods.
 
 To calculate average price per unit and total units sold.
+
+## Key Insights
+
+Total Sales: $900M
+
+Total Profit: $332M
+
+Total Units Sold: 2M
+
+Average Price per Unit: $45
+
+Top Performing Retailer: West Gear
+
+Highest Sales Method: In-store ($357M)
+
+Region with Maximum Sales: West ($270M)
+
+Peak Sales Month: August ($96M)
+
+Dashboard Features
+
+## KPIs:
+
+Total Sales
+
+Total Profit
+
+Total Units Sold
+
+Average Price per Unit
+
+## Visuals Used:
+
+Donut Chart: Sales by Sales Method
+
+Bar Chart: Sales by Product & Retailer
+
+Pie Chart: Sales by Region
+
+Line Chart: Sales Trend by Month
+
+## Slicer:
+
+Region filter to view performance by region.
+
+## Design:
+
+Professional dark-themed header with clean layout.
+
+Consistent color palette and readable typography.
+
+Interactive visuals for better user experience.
