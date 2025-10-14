@@ -1,4 +1,4 @@
-#ADIDAS SALES ANALYSIS(Interactive Dashboard using PowerBI) 
+## ADIDAS SALES ANALYSIS(Interactive Dashboard using PowerBI) 
 ## Project Objective 
 This Power BI dashboard provides a comprehensive sales performance analysis for Adidas, offering insights into total sales, profits, units sold, pricing trends, and regional performance.
 The goal of this project is to analyze key business metrics and identify areas for growth and performance improvement using visual analytics.
